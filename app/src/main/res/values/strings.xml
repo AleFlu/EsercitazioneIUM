@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Esercitazione</string>
+    <string name="benvenuto_testo">Benvenuto %1$s</string>
+    <string name="citta_testo">Città: %1$s</string>
+    <string name="Nome">Nome: %1$s</string>
+    <string name="data_nascita">Data di nascita: %1$s</string>
+
+</resources>
